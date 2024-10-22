@@ -10,8 +10,9 @@
 	"keywords": [
 		"cmmv",
 		"framework",
-		"express",
-		"middleware"
+		"ecc",
+		"aes-256-gcm",
+		"elliptic curves"
 	],
 	"repository": {
 		"type": "git",
