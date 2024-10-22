@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { Encryptor } from "../lib/encryptor";
+import { Encryptor } from "../src/encryptor";
 import { ec as EC } from 'elliptic';
 
 const ec = new EC('secp256k1');

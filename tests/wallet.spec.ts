@@ -1,6 +1,6 @@
 import * as bip39 from "bip39";
 import { describe, expect, test, it } from 'vitest';
-import { Wallet } from "../lib/wallet";
+import { Wallet } from "../src/wallet";
 
 describe('wallet', () => {
 	it('generate mnenomic 12 words', () => {

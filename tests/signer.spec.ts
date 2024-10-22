@@ -1,6 +1,6 @@
 import { describe, expect, test, it } from 'vitest';
-import { Signer } from "../lib/signer";
-import { Wallet } from "../lib/wallet";
+import { Signer } from "../src/signer";
+import { Wallet } from "../src/wallet";
 
 describe('signer', () => {
     const testObject = { hello: "world" };
