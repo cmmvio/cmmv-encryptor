@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://cmmv.io">Documentation</a> &bull;
-  <a href="https://github.com/andrehrferreira/cmmv-server/issues">Report Issue</a>
+  <a href="https://github.com/andrehrferreira/cmmv-encryptor/issues">Report Issue</a>
 </p>
 
 ## Description
@@ -260,22 +260,3 @@ const recoveryId = 1; // Typically 0 or 1
 const recoveredPublicKey = Signer.recoverPublicKeyFromHash(signedMessage, recoveryId);
 console.log('Recovered Public Key:', recoveredPublicKey);
 ```
-
-## Documentation
-
-The complete documentation is available [here](https://cmmv.io).
-
-## Support
-
-CMMV is an open-source project, and we are always looking for contributors to help improve it. If you encounter a bug or have a feature request, please open an issue on [GitHub](https://github.com/andrehrferreira/cmmv-server/issues).
-
-## Stay in Touch
-
-- Author - [André Ferreira](https://github.com/andrehrferreira)
-- Twitter - [@andrehrferreira](https://twitter.com/andrehrferreira)
-- Linkdin - [@andrehrf](https://www.linkedin.com/in/andrehrf)
-- Youtube - [@Andrehrferreira](https://www.youtube.com/@Andrehrferreira)
-
-## License
-
-CMMV is [MIT licensed](LICENSE).
