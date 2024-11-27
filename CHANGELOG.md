@@ -1,3 +1,7 @@
+## [0.6.2](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.6.1...v0.6.2) (2024-11-27)
+
+
+
 ## [0.6.1](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.6.0...v0.6.1) (2024-11-27)
 
 
