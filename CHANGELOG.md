@@ -1,3 +1,21 @@
+# [0.6.0](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.5.0...v0.6.0) (2024-11-27)
+
+
+### Features
+
+* simple keys fuctions ([8156295](https://github.com/andrehrferreira/cmmv-encryptor/commit/8156295861c8cb012d18d2b26eba9bcb28f54c20))
+
+
+
+## [0.5.1](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.5.0...v0.5.1) (2024-11-27)
+
+
+### Features
+
+* simple keys fuctions ([8156295](https://github.com/andrehrferreira/cmmv-encryptor/commit/8156295861c8cb012d18d2b26eba9bcb28f54c20))
+
+
+
 # [0.5.0](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.4.6...v0.5.0) (2024-11-27)
 
 
