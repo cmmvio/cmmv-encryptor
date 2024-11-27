@@ -1,6 +1,6 @@
 {
     "name": "@cmmv/encryptor",
-    "version": "0.4.4",
+    "version": "0.4.5",
     "main": "dist/index.js",
     "description": "CMMV (@encryptor)",
     "type": "module",
@@ -36,14 +36,14 @@
     "engines": {
         "node": ">= 18.18.0 || >= 20.0.0"
     },
-	"lint-staged": {
-		"**/*.ts": [
-			"prettier --ignore-path ./.prettierignore --write"
-		],
-		"packages/**/*.json": [
-			"prettier --ignore-path ./.prettierignore --write"
-		]
-	},
+    "lint-staged": {
+        "**/*.ts": [
+            "prettier --ignore-path ./.prettierignore --write"
+        ],
+        "packages/**/*.json": [
+            "prettier --ignore-path ./.prettierignore --write"
+        ]
+    },
     "devDependencies": {
         "@cmmv/server": "^0.4.2",
         "@commitlint/cli": "^19.6.0",

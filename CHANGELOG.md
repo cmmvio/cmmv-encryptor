@@ -1,3 +1,13 @@
+## [0.4.5](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.4.4...v0.4.5) (2024-11-27)
+
+
+### Features
+
+* vitest ([d530f6c](https://github.com/andrehrferreira/cmmv-encryptor/commit/d530f6c808ddd34ceabe1a9e9338d6fc2e010900))
+* vitest ([7c8b12e](https://github.com/andrehrferreira/cmmv-encryptor/commit/7c8b12eabd920617ec335a22628bb9fe5c1b25a7))
+
+
+
 ## 0.4.4 (2024-11-27)
 
 
