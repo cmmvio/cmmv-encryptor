@@ -1,3 +1,12 @@
+## [0.6.3](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.6.2...v0.6.3) (2024-11-27)
+
+
+### Bug Fixes
+
+* cjs support ([8562b0b](https://github.com/andrehrferreira/cmmv-encryptor/commit/8562b0b29edb6fcb641a6902dbab12f2b8c723db))
+
+
+
 ## [0.6.2](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.6.1...v0.6.2) (2024-11-27)
 
 
