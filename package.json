@@ -3,6 +3,7 @@
 	"version": "0.4.3",
 	"main": "dist/index.js",
 	"description": "CMMV (@encryptor)",
+	"type": "module",
 	"scripts": {
 		"build": "tsc",
 		"test": "vitest",
@@ -56,6 +57,7 @@
 		"eslint": "^9.15.0",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-import": "^2.31.0",
+		"execa": "^9.5.1",
 		"husky": "^9.1.7",
 		"lint-staged": "^15.2.10",
 		"prettier": "^3.3.3",
