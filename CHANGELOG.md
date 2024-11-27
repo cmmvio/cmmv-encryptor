@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.4.6...v0.5.0) (2024-11-27)
+
+
+### Bug Fixes
+
+* readme ([6a1f534](https://github.com/andrehrferreira/cmmv-encryptor/commit/6a1f53451c6ab85a9c7236903de26c7e483beb75))
+
+
+
 ## [0.4.6](https://github.com/andrehrferreira/cmmv-encryptor/compare/v0.4.4...v0.4.6) (2024-11-27)
 
 
