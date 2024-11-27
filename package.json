@@ -5,7 +5,10 @@
 	"description": "CMMV (@encryptor)",
 	"scripts": {
 		"build": "tsc",
-		"test": "vitest"
+		"test": "vitest",
+		"prepare": "husky",
+		"lint": "pnpm run lint:spec",
+		"lint:fix": "pnpm run lint:spec -- --fix"
 	},
 	"keywords": [
 		"cmmv",
@@ -32,13 +35,23 @@
 	},
 	"devDependencies": {
 		"@cmmv/server": "^0.4.2",
+		"@commitlint/cli": "^19.6.0",
+		"@commitlint/config-angular": "^19.6.0",
+		"@commitlint/config-conventional": "^19.6.0",
 		"@swc-node/core": "^1.13.3",
 		"@swc-node/register": "^1.10.9",
 		"@swc/core": "^1.7.26",
 		"@swc/helpers": "^0.5.13",
 		"@types/node": "^22.5.4",
+		"@typescript-eslint/eslint-plugin": "^8.16.0",
+		"@typescript-eslint/parser": "^8.16.0",
 		"esbuild": "^0.23.1",
 		"esbuild-register": "^3.6.0",
+		"eslint": "^9.15.0",
+		"eslint-config-prettier": "^9.1.0",
+		"eslint-plugin-import": "^2.31.0",
+		"husky": "^9.1.7",
+		"lint-staged": "^15.2.10",
 		"prettier": "^3.3.3",
 		"tslib": "^2.7.0",
 		"typescript": "^5.6.2",
