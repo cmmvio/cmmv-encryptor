@@ -3,9 +3,8 @@
 </p>
 <p align="center">Contract-Model-Model-View (CMMV) <br/> Building scalable and modular applications using contracts.</p>
 <p align="center">
-    <a href="https://www.npmjs.com/package/@cmmv/core"><img src="https://img.shields.io/npm/v/@cmmv/core.svg" alt="NPM Version" /></a>
-    <a href="https://github.com/andrehrferreira/cmmv-server/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/@cmmv/core.svg" alt="Package License" /></a>
-    <a href="https://dl.circleci.com/status-badge/redirect/circleci/QyJWAYrZ9JTfN1eubSDo5u/JEtDUbr1cNkGRxfKFJo7oR/tree/main" target="_blank"><img src="https://dl.circleci.com/status-badge/img/circleci/QyJWAYrZ9JTfN1eubSDo5u/JEtDUbr1cNkGRxfKFJo7oR/tree/main.svg?style=svg" alt="CircleCI" /></a>
+    <a href="https://www.npmjs.com/package/@cmmv/encryptor"><img src="https://img.shields.io/npm/v/@cmmv/encryptor.svg" alt="NPM Version" /></a>
+    <a href="https://github.com/andrehrferreira/cmmv-encryptor/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/@cmmv/encryptor.svg" alt="Package License" /></a>
 </p>
 
 <p align="center">

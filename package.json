@@ -1,7 +1,7 @@
 {
     "name": "@cmmv/encryptor",
     "version": "0.6.3",
-    "description": "CMMV (@encryptor)",
+    "description": "Encryption module using elliptic curves (ECC) and AES-256-GCM for secure data encryption in CMMV and Node.js applications.",
     "main": "./dist/cjs/index.js",
     "module": "./dist/esm/index.js",
     "types": "./dist/types/index.d.ts",
@@ -47,9 +47,6 @@
     },
     "lint-staged": {
         "**/*.ts": [
-            "prettier --ignore-path ./.prettierignore --write"
-        ],
-        "packages/**/*.json": [
             "prettier --ignore-path ./.prettierignore --write"
         ]
     },
