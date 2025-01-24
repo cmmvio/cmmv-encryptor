@@ -1,6 +1,6 @@
 {
     "name": "@cmmv/encryptor",
-    "version": "0.6.4",
+    "version": "0.6.5",
     "description": "Encryption module using elliptic curves (ECC) and AES-256-GCM for secure data encryption in CMMV and Node.js applications.",
     "main": "./dist/cjs/index.js",
     "module": "./dist/esm/index.js",
@@ -31,12 +31,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/andrehrferreira/cmmv-encryptor.git"
+        "url": "git+https://github.com/cmmvio/cmmv-encryptor.git"
     },
     "author": "Andre Ferreira",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/andrehrferreira/cmmv-encryptor/issues"
+        "url": "https://github.com/cmmvio/cmmv-encryptor/issues"
     },
     "homepage": "https://cmmv.io",
     "publishConfig": {
