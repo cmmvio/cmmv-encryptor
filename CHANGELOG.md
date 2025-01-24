@@ -1,3 +1,12 @@
+## [0.6.5](https://github.com/cmmvio/cmmv-encryptor/compare/v0.6.4...v0.6.5) (2025-01-24)
+
+
+### Bug Fixes
+
+* repository ([8134c82](https://github.com/cmmvio/cmmv-encryptor/commit/8134c82dee5352be3050fa59c6594246336a084c))
+
+
+
 ## [0.6.4](https://github.com/cmmvio/cmmv-encryptor/compare/v0.6.3...v0.6.4) (2024-12-10)
 
 
