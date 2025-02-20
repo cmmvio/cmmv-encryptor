@@ -1,6 +1,6 @@
 {
     "name": "@cmmv/encryptor",
-    "version": "0.6.5",
+    "version": "0.7.0",
     "description": "Encryption module using elliptic curves (ECC) and AES-256-GCM for secure data encryption in CMMV and Node.js applications.",
     "main": "./dist/cjs/main.js",
     "module": "./dist/esm/main.js",

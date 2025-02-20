@@ -1,3 +1,13 @@
+# [0.7.0](https://github.com/cmmvio/cmmv-encryptor/compare/v0.6.5...v0.7.0) (2025-02-20)
+
+
+### Bug Fixes
+
+* eslint, cli ([e760c77](https://github.com/cmmvio/cmmv-encryptor/commit/e760c7744fb7d987c67d92252adf31728b20132c))
+* release ([79470e3](https://github.com/cmmvio/cmmv-encryptor/commit/79470e39bfe0123f17f7e865035b54fc7e38b19e))
+
+
+
 ## [0.6.5](https://github.com/cmmvio/cmmv-encryptor/compare/v0.6.4...v0.6.5) (2025-01-24)
 
 
